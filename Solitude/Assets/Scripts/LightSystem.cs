@@ -26,6 +26,16 @@ public class LightSystem : MonoBehaviour
         lampada.range = intencidade;
 
         barra.value = intencidade;
+
+        if(totalTime <= 0)
+        {
+            totalTime = 0;
+        }
+
+        if(totalTime >= 30.0f)
+        {
+            totalTime = 30.0f;
+        }
         
     }
 
@@ -33,7 +43,7 @@ public class LightSystem : MonoBehaviour
     {
         if(other.CompareTag("Heart"))
         {
-            totalTime += 30.0f;
+            totalTime += 10.0f;
             Destroy(other.gameObject);
         }
     }
