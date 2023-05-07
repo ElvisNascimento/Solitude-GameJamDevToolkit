@@ -1,7 +1,5 @@
 # Game Dev Toolkit
 
-![preview](https://img.itch.zone/aW1nLzExMTAzNzA0LnBuZw==/original/ABuY%2BO.png)
-
 ![preview](https://img.itch.zone/aW1hZ2UvMTg4OTI0Ni8xMTEwMzk1NS5wbmc=/original/pYr4D5.png)
 
 ![preview](https://img.itch.zone/aW1hZ2UvMTg4OTI0Ni8xMTEwNTY5Ny5wbmc=/original/38dvad.png)
